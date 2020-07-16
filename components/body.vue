@@ -3,7 +3,7 @@
     <div class="hidden md:flex flex-none h-16 w-16 md:h-24 md:w-24 rounded-full bg-green mx-auto md:mx-0 md:mr-6 items-center align-middle justify-center">
       <div class="text-white text-3xl font-bold tracking-normal">Vivo</div>
     </div>
-    <div class="xl:flex">
+    <div class="xl:flex text-justify">
       <div class="flex-1 xl:mr-8">
         <h4 class="text-lg mb-2 text-green">Why do I want to work at Vivo Life?</h4>
         <p class="my-4">

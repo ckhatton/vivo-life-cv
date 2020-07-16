@@ -4,6 +4,7 @@
       <Header />
       <Contact />
       <Body />
+      <Detail />
       <Footer />
     </div>
   </div>

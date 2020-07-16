@@ -12,9 +12,9 @@
 
         <h4 class="text-lg mb-2 text-green">Education</h4>
         <ul>
-          <li class="pb-4">University of Plymouth – 2011 - 2012
+          <li class="pb-4"><span class="font-semibold">University of Plymouth – 2011 - 2012</span>
             <ul class="pl-4">
-              <li>BSc (Hons) Computing (Foundation Degree to Full Degree)
+              <li><span class="italic">BSc (Hons) Computing (Foundation Degree to Full Degree)</span>
                 <ul class="pl-4">
                   <li>Project Management (Prince 2)</li>
                   <li>Software Development Methods
@@ -37,9 +37,9 @@
               </li>
             </ul>
           </li>
-          <li class="pb-4">North Devon College (Petroc) – 2009 - 2011
+          <li class="pb-4"><span class="font-semibold">North Devon College (Petroc) – 2009 - 2011</span>
             <ul class="pl-4">
-              <li>Foundation Degree in Computing
+              <li><span class="italic">Foundation Degree in Computing</span>
                 <ul class="pl-4">
                   <li>Software Development Methods
                     <ul class="pl-4">
@@ -52,9 +52,9 @@
               </li>
             </ul>
           </li>
-          <li class="pb-4">University of Plymouth – 2006 - 2009
+          <li class="pb-4"><span class="font-semibold">University of Plymouth – 2006 - 2009</span>
             <ul class="pl-4">
-              <li>BA (Hons) Design: Illustration
+              <li><span class="italic">BA (Hons) Design: Illustration</span>
                 <ul class="pl-4">
                   <li>Book Binding</li>
                   <li>Understanding text and image</li>
@@ -66,16 +66,16 @@
               </li>
             </ul>
           </li>
-          <li class="pb-4">North Devon College (Petroc) – 2005 - 2006
+          <li class="pb-4"><span class="font-semibold">North Devon College (Petroc) – 2005 - 2006</span>
             <ul class="pl-4">
-              <li>Foundation Diploma in Art &amp; Design</li>
+              <li><span class="italic">Foundation Diploma in Art &amp; Design</span></li>
             </ul>
           </li>
-          <li class="pb-4">West Buckland School – 1998 - 2005
+          <li class="pb-4"><span class="font-semibold">West Buckland School – 1998 - 2005</span>
             <ul class="pl-4">
-              <li>A Levels – Art (Fine Art)</li>
-              <li>AS Levels – Maths (Statistics and Pure), Physics, Information Technology</li>
-              <li>GCSE’s – Art, Geography, IT, Maths, English Literature, English Language, Physics, Biology, Chemistry</li>
+              <li>A Levels – <span class="italic">Art (Fine Art)</span></li>
+              <li>AS Levels – <span class="italic">Maths (Statistics and Pure), Physics, Information Technology</span></li>
+              <li>GCSE’s – <span class="italic">Art, Geography, IT, Maths, English Literature, English Language, Physics, Biology, Chemistry</span></li>
             </ul>
           </li>
         </ul>

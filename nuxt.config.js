@@ -1,5 +1,8 @@
 
 export default {
+  server: {
+    host: '0.0.0.0' // default: localhost
+  },
   /*
   ** Nuxt rendering mode
   ** See https://nuxtjs.org/api/configuration-mode

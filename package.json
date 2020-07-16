@@ -1,0 +1,32 @@
+{
+  "name": "vivo-life-cv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "This is a CV for Vivo Life",
+  "author": "Christopher Hatton <mail@ckhatton.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/ckhatton/vivo-life-cv"
+  },
+  "keywords": [
+    "react",
+    "nextjs",
+    "vivo-life",
+    "cv"
+  ],
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "export": "nuxt export",
+    "serve": "nuxt serve"
+  },
+  "dependencies": {
+    "@nuxtjs/pwa": "^3.0.0-beta.20",
+    "nuxt": "^2.13.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^2.0.0"
+  }
+}

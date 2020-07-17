@@ -1,6 +1,6 @@
 <template>
   <div class="bg-green mb-4 p-8 rounded-lg shadow-lg text-white tracking-wider font-extrabold flex flex-wrap justify-between items-center">
-    <h1 class="text-base">Built with Vue.js using Nuxt.js framework and styled with Tailwind CSS</h1>
+    <h1 class="text-base">Built with Vue.js using Nuxt.js framework and styled with Tailwind CSS <a href="https://github.com/ckhatton/vivo-life-cv" target="_blank">(source)</a></h1>
     <h2 id="date" class="text-base">{{ time }} {{ new Date().toLocaleDateString() }}</h2>
   </div>
 </template>

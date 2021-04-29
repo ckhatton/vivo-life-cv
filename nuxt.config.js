@@ -8,7 +8,7 @@ export default {
   ** Nuxt rendering mode
   ** See https://nuxtjs.org/api/configuration-mode
   */
-  mode: 'spa',
+  ssr: false,
   /*
   ** Nuxt target
   ** See https://nuxtjs.org/api/configuration-target
@@ -64,5 +64,10 @@ export default {
   ** See https://nuxtjs.org/api/configuration-build/
   */
   build: {
+    babel: {
+      plugins: [
+        ['@babel/plugin-proposal-private-methods', { 'loose': true }]
+      ]
+    }
   }
 }
